@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<AutoUpdater>
+  <Description>NCTT AutoUpdate</Description>
+  <Updater>
+    <Url>http://iot.nplink.com/iot/ncttupd/</Url>
+    <LastUpdateTime>2017-01-17</LastUpdateTime>
+  </Updater>
+  <Application applicationId = "NCTT_NEW">
+    <Main>NCTT_NEW.exe</Main>
+    <EntryPoint>NCTT_NEW.exe</EntryPoint>
+    <Version>2.0.1</Version>
+  </Application>
+  <Files>
+	<File Ver="2.0.1" Name= "NCTT_NEW.zip" />
+  </Files>
+</AutoUpdater>
